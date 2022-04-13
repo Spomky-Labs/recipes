@@ -1,0 +1,18 @@
+{
+    "manifests": {
+        "web-token/jwt-bundle": {
+            "manifest": {
+                "bundles": {
+                    "Jose\\Bundle\\JoseFramework\\JoseFrameworkBundle": [
+                        "all"
+                    ]
+                },
+                "post-install-output": [
+                    "  * Web Token Bundle is ready."
+                ]
+            },
+            "files": [],
+            "ref": "e9872ca728053c5a09ef09ec4712d430f30895d6"
+        }
+    }
+}
