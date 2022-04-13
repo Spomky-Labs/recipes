@@ -1,7 +1,7 @@
   * Lexik Jose Bridge is ready. You can now configure it
   * and create:
-    1. Your signature key set
-    2. Your encryption key set
+    1. Your signature keyset
+    2. Your encryption keyset
 
   * The configuration file is located in <comment>config/packages/spomky_labs_lexik_jose_bridge_bundle.yaml</>
 
