@@ -11,7 +11,7 @@ defaults:
 
 jobs:
     call-flex-update:
-        uses: web-auth/recipes/.github/workflows/callable-flex-update.yml@tree
+        uses: Spomky-Labs/recipes/.github/workflows/callable-flex-update.yml@tree
         with:
             branch: tree
             versions_json: .github/versions.json
