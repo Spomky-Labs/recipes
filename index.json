@@ -1,0 +1,22 @@
+{
+    "aliases": [],
+    "recipes": {
+        "spomky-labs/lexik-jose-bridge": [
+            "4.0"
+        ]
+    },
+    "recipe-conflicts": [],
+    "versions": {
+        "splits": []
+    },
+    "branch": "tree",
+    "is_contrib": false,
+    "_links": {
+        "repository": "github.com/Spomky-Labs/recipes",
+        "origin_template": "{package}:{version}@github.com/Spomky-Labs/recipes:tree",
+        "recipe_template": "https://raw.githubusercontent.com/Spomky-Labs/recipes/main/{package_dotted}.{version}.json",
+        "recipe_template_relative": "{package_dotted}.{version}.json",
+        "archived_recipes_template": "https://raw.githubusercontent.com/Spomky-Labs/recipes/main/archived/{package_dotted}/{ref}.json",
+        "archived_recipes_template_relative": "archived/{package_dotted}/{ref}.json"
+    }
+}
